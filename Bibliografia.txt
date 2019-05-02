@@ -1,2 +1,5 @@
 Bibliografia
 Pego do autor X
+Editor: Tal
+
+(*Alterado)
